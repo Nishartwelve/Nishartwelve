@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nishartwelve
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
+-    I'm beginner in python, c# and unity
 - 📫 How to reach me ahamednishar333@gmail.com
 
 <!---
